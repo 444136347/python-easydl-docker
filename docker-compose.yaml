@@ -1,0 +1,11 @@
+version: '3'
+services:
+  web:
+    container_name: muzi_python
+    build: .
+    ports:
+      - "22401:22401"
+    volumes:
+      - .:/app
+    stdin_open: true
+    tty: true

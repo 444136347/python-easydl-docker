@@ -1,0 +1,17 @@
+{
+  "authExpire": 1703692800000,
+  "authModelId": "",
+  "authType": "MODEL-TS-AUTH-ONLY",
+  "bizModelId": 0,
+  "cs": "36AD-AD84-9855-8332-1C23-D7A5-CFF8-D8C3-0350",
+  "modelEnc": 1100,
+  "modelId": 0,
+  "modelName": "玩手机模型",
+  "modelType": 2,
+  "nType": 113,
+  "product": "PaddleDesktop",
+  "releaseId": 0,
+  "soc": "x86",
+  "thresholdRec": 0.20000000000000001,
+  "version": 2
+}
